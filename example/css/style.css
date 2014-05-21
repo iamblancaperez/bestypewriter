@@ -1,0 +1,22 @@
+body{
+	font-family: 'Cutive Mono', 'monospace';
+}
+
+.computer{
+	color: whitesmoke;
+	background-color: #2d1125;
+	width: 880px;
+	height: 450px;
+	margin: 0 auto;
+	border: 40px solid #0E0D0D;
+	border-radius: 20px;
+	padding: 30px;
+	font-size: 1.1em;
+}
+
+.green{
+	color: yellowgreen;
+}
+.purple{
+	color: crimson;
+}
